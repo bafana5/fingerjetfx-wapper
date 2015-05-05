@@ -1,0 +1,14 @@
+For libFRFXLL--> For C/C++ General/Additional Directories[Use your path]
+H:\FJFXWrapper\libFRFXLL\libFRFXLL\src\include\
+H:\FJFXWrapper\libFRFXLL\libFRFXLL\src\algorithm\
+
+For libfjfx  --> Liner\Input\Additional Dependencies Properties[Use your path]
+"H:\FJFXWrapper\libFRFXLL\Debug\FRFXLLExport.obj"
+"H:\FJFXWrapper\libFRFXLL\Debug\FRFXLLCreateContext.obj"
+"H:\FJFXWrapper\libFRFXLL\Debug\FRFXLLCreateFeatureSet.obj"
+"H:\FJFXWrapper\libFRFXLL\Debug\FRFXLLCreateFeatureSetFromRaw.obj"
+"H:\FJFXWrapper\libFRFXLL\Debug\FRFXLLCreateFeatureSetInPlace.obj"
+"H:\FJFXWrapper\libFRFXLL\Debug\FRFXLLCreateFeatureSetInPlaceFromRaw.obj"
+"H:\FJFXWrapper\libFRFXLL\Debug\FRFXLLCreateLibraryContext.obj"
+"H:\FJFXWrapper\libFRFXLL\Debug\FRFXLLDuplicateHandle.obj"
+"H:\FJFXWrapper\libFRFXLL\Debug\FRFXLLGetLibraryVersion.obj"
